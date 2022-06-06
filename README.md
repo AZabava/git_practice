@@ -24,5 +24,4 @@ print s
 ***
 
 ### *A YouTube video example* ###
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=rfscVS0vtbw)
-" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.youtube.com/watch?v=rfscVS0vtbw)" 
+[![Python tutorial from CodeCademy]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=rfscVS0vtbw)
