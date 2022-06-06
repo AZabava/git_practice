@@ -24,4 +24,4 @@ print s
 ***
 
 ### *A YouTube video example* ###
-[![Python Tutorial](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=rfscVS0vtbw))
+[![Python Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
